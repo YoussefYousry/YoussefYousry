@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](![image](https://github.com/YoussefYousry/YoussefYousry/assets/73970436/54778097-8eb2-4d9b-bcce-b6ca5a965a02)
-)
+[![MasterHead](https://i.pinimg.com/564x/f1/b3/f7/f1b3f76797e31282827a7ed6dbaaa727.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Youssef Yousry</h1>
 <h3 align="center">A Passionate Backend Developer.</h3>
 <img align="right" alt"Coding" width ="400" src = "https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
