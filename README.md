@@ -1,4 +1,4 @@
-[<img src="https://i.pinimg.com/564x/f1/b3/f7/f1b3f76797e31282827a7ed6dbaaa727.jpg" width="800px">](https://rishavchanda.io)
+[<img src="https://i.pinimg.com/564x/f1/b3/f7/f1b3f76797e31282827a7ed6dbaaa727.jpg" width="800px" height="400px">](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Youssef Yousry</h1>
 <h3 align="center">A Passionate Backend Developer.</h3>
